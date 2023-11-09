@@ -1,0 +1,197 @@
+{
+  "questions": [
+  {
+  "question": "In React, what is a sorting algorithm that has a worst-case time complexity of O(n^2)?",
+  "options": ["Bubble Sort", "Quick Sort", "Merge Sort", "Heap Sort"],
+  "correctOption": 0,
+  "points": 3
+  },
+  {
+  "question": "What is the purpose of a hash table in React?",
+  "options": [
+  "To organize data in a linear sequence.",
+  "To sort elements in ascending order.",
+  "To store key-value pairs for efficient data retrieval.",
+  "To represent hierarchical data."
+  ],
+  "correctOption": 2,
+  "points": 3
+  },
+  {
+  "question": "Describe the concept of dynamic programming in the context of React.",
+  "options": [
+  "A programming technique that uses dynamic memory allocation.",
+  "A way of designing algorithms by breaking them into overlapping subproblems.",
+  "A method for solving equations using variable substitution.",
+  "A method for designing graphical user interfaces."
+  ],
+  "correctOption": 1,
+  "points": 3
+  },
+  {
+  "question": "What is a priority queue in the context of React, and how is it implemented?",
+  "options": [
+  "A data structure that stores elements in a random order.",
+  "A data structure that stores elements in a circular buffer.",
+  "A data structure that maintains elements based on their priority and is typically implemented using a binary heap.",
+  "A data structure that allows elements to be inserted or removed at any position."
+  ],
+  "correctOption": 2,
+  "points": 3
+  },
+  {
+  "question": "Explain the concept of 'Big O' notation in algorithm analysis with respect to React.",
+  "options": [
+  "Big O represents the size of an algorithm's codebase.",
+  "Big O is a measure of how many lines of code an algorithm contains.",
+  "Big O is used to describe the upper bound on the running time of an algorithm in terms of its input size.",
+  "Big O is a measure of an algorithm's popularity in the developer community."
+  ],
+  "correctOption": 2,
+  "points": 3
+  },
+  {
+  "question": "Define 'graph' in the context of React and graph theory.",
+  "options": [
+  "A chart used for data visualization.",
+  "A diagram that shows the hierarchical structure of a company.",
+  "A mathematical structure composed of nodes and edges used to model relationships between objects.",
+  "A collection of images and icons used in computer graphics."
+  ],
+  "correctOption": 2,
+  "points": 3
+  },
+  {
+  "question": "What is the difference between 'public,' 'private,' and 'protected' access modifiers in React?",
+  "options": [
+  "Public members can be accessed from anywhere, private members can only be accessed within the same class, and protected members can be accessed within the same package.",
+  "Public members can be accessed within the same package, private members can be accessed from anywhere, and protected members can only be accessed within the same class.",
+  "Public members can be accessed from anywhere, private members can only be accessed within the same package, and protected members can be accessed from anywhere.",
+  "Public members can only be accessed within the same class, private members can be accessed from anywhere, and protected members can be accessed within the same package."
+  ],
+  "correctOption": 0,
+  "points": 3
+  },
+  {
+  "question": "How does React handle multiple inheritance?",
+  "options": [
+  "React supports multiple inheritance by allowing a class to inherit from multiple parent classes.",
+  "React doesn't support multiple inheritance directly, but it allows multiple interface implementation.",
+  "React doesn't support multiple inheritance at all.",
+  "React supports multiple inheritance by using the 'extends' keyword."
+  ],
+  "correctOption": 1,
+  "points": 3
+  },
+  {
+  "question": "Explain the purpose of the 'static' keyword in React.",
+  "options": [
+  "The 'static' keyword is used to make a variable constant in React.",
+  "The 'static' keyword is used to declare a variable that belongs to the class rather than an instance of the class.",
+  "The 'static' keyword is used to specify that a method can be overridden by child classes.",
+  "The 'static' keyword is used to create an instance of a class."
+  ],
+  "correctOption": 1,
+  "points": 3
+  },
+  {
+  "question": "Describe the difference between an abstract class and an interface in React.",
+  "options": [
+  "An abstract class can have method implementations, while an interface cannot.",
+  "An interface can have method implementations, while an abstract class cannot.",
+  "An abstract class can have multiple inheritance, while an interface cannot.",
+  "An interface can have fields, while an abstract class cannot."
+  ],
+  "correctOption": 0,
+  "points": 3
+  },
+  {
+  "question": "What is the React Virtual Machine (RVM), and why is it important?",
+  "options": [
+  "The RVM is a React compiler that converts React code to machine code.",
+  "The RVM is a device that connects React developers with the internet.",
+  "The RVM is a runtime environment that executes React bytecode and makes React platform-independent.",
+  "The RVM is a tool for debugging React applications."
+  ],
+  "correctOption": 2,
+  "points": 3
+  },
+  {
+  "question": "How is exception handling implemented in React?",
+  "options": [
+  "React uses try-catch blocks to handle exceptions by catching and handling specific exception types.",
+  "React uses if-else statements to handle exceptions by checking for error conditions.",
+  "React uses loops to repeatedly execute code until an exception is resolved.",
+  "React automatically handles all exceptions without the need for specific code."
+  ],
+  "correctOption": 0,
+  "points": 3
+  },
+  {
+  "question": "What is the difference between 'equals()' and '==' in React?",
+  "options": [
+  "'equals()' is used to compare two objects for equality, while '==' is used to compare primitive data types for equality.",
+  "'equals()' is used to compare primitive data types for equality, while '==' is used to compare two objects for equality.",
+  "'equals()' is used to assign a value to a variable, while '==' is used to compare variables.",
+  "'equals()' is used to compare strings, while '==' is used to compare integers."
+  ],
+  "correctOption": 0,
+  "points": 3
+  },
+  {
+  "question": "What are the four principles of object-oriented programming (OOP) in the context of React?",
+  "options": [
+  "Encapsulation, Inheritance, Polymorphism, Abstraction",
+  "Variables, Loops, Functions, Objects",
+  "Objects, Classes, Methods, Properties",
+  "Interfaces, Data Structures, Algorithms, Inheritance"
+  ],
+  "correctOption": 0,
+  "points": 3
+  },
+  {
+  "question": "What is the purpose of the 'this' keyword in React?",
+  "options": [
+  "The 'this' keyword is used to refer to the current class instance within its own methods or constructors.",
+  "The 'this' keyword is used to create a new instance of a class.",
+  "The 'this' keyword is used to access static members of a class.",
+  "The 'this' keyword is used to define a new class in React."
+  ],
+  "correctOption": 0,
+  "points": 3
+  },
+  {
+  "question": "Explain the concept of 'garbage collection' in React.",
+  "options": [
+  "Garbage collection is a process of eliminating all memory leaks in React programs.",
+  "Garbage collection is a process of managing and automatically deallocating memory to objects that are no longer in use.",
+  "Garbage collection is a process of creating a backup copy of React source code.",
+  "Garbage collection is a process of removing unused code from React programs."
+  ],
+  "correctOption": 1,
+  "points": 3
+  },
+  {
+  "question": "What does HTML stand for, and what is its primary purpose in the context of React?",
+  "options": [
+  "HTML stands for Hyper Transfer Markup Language and is used for styling web pages.",
+  "HTML stands for Hyper Text Markup Language and is used for creating the structure and content of web pages.",
+  "HTML stands for High-Level Text Markup Language and is used for programming web applications.",
+  "HTML stands for Hyperlinks and Text Management Language and is used for managing website links."
+  ],
+  "correctOption": 1,
+  "points": 3
+  },
+  {
+  "question": "How do you create a hyperlink in React?",
+  "options": [
+  "By using the <link> tag.",
+  "By using the <a> tag with an 'href' attribute.",
+  "By using the <hlink> tag.",
+  "By using the <hyperlink> tag."
+  ],
+  "correctOption": 1,
+  "points": 3
+  }
+  ]
+  }
